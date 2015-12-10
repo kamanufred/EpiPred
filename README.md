@@ -2,7 +2,7 @@
 Wrapper for the [IEDB](http://www.iedb.org/) MHC class II epitope predictor.
 
 #Installation
-\- Download and configure the IEDB MHC class II epitope predictor from `http://tools.iedb.org/mhcii/download/`
+\- Download and configure the [IEDB MHC class II epitope predictor](http://tools.iedb.org/mhcii/download)
 \- Checkout this source: `git clone https://github.com/kamanufred/EpiPred.git`  
 
 #Usage
